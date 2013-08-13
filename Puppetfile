@@ -37,3 +37,6 @@ github "xquartz",    "1.1.0"
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
 github "mysql",      "1.1.3"
+github "tmux",       "1.0.2"
+github "macvim",     "1.0.0"
+
