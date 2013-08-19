@@ -1,5 +1,6 @@
 class projects::tinda {
   include mysql
+  include elasticsearch
 
   boxen::project { 'tinda':
     mysql  => true,
