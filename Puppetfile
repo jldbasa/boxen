@@ -38,6 +38,5 @@ github "xquartz",    "1.1.0"
 # https://github.com/boxen.
 github "mysql",      "1.1.3"
 github "tmux",       "1.0.2"
-github "macvim",     "1.0.0"
 github "elasticsearch", "1.0.1"
 github "java",       "1.1.2"

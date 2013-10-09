@@ -1,7 +1,5 @@
 class people::jldbasa {
 
-  include macvim
-
   $home     = "/Users/${::boxen_user}"
   $dotfiles_dir = "${boxen::config::srcdir}/dotfiles"
 
